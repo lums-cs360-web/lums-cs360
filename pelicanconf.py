@@ -1,5 +1,5 @@
-AUTHOR = 'University of Alberta'
-SITENAME = 'CMPUT 301'
+AUTHOR = 'LUMS'
+SITENAME = 'CS360'
 SITESUBTITLE = 'Software Engineering'
 SITEURL = ""
 
