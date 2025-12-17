@@ -69,8 +69,8 @@ DISPLAY_PAGES_ON_MENU=True
 INDEX_SAVE_AS="all.html"
 
 MENUITEMS=[
-    ("Outline", "/general/outline.html"),
-    ("Canvas & Grades", "/#canvas"),
+    ("Outline", "/lums-cs360/general/outline.html"),
+    ("Canvas & Grades", "#canvas"),
     ("Schedule", "/#schedule"),
     ("Labs", "/general/labs.html"),
     ("Project", "/general/project.html"),
