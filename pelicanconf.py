@@ -68,18 +68,17 @@ DISPLAY_PAGES_ON_MENU=True
 
 INDEX_SAVE_AS="all.html"
 
-MENUITEMS=[
+MENUITEMS = [
     ("Outline", "/lums-cs360/general/outline.html"),
-    ("Canvas & Grades", "#canvas"),
-    ("Schedule", "/#schedule"),
-    ("Labs", "/general/labs.html"),
-    ("Project", "/general/project.html"),
-    ("Individual", "/general/individual.html"),
-    ("Resources", "/general/resources.html"),
-    ("Discussion Forum", "/general/help.html#discussion-forum"),
-    ("News & Notices", "/#news-notices"),
-    ("Slides", "/general/slides.html"),
-    ("Midterms", "/general/midterms.html"),
-    ("Help", "/general/help.html"),
+    ("Canvas & Grades", "/lums-cs360/#canvas"),
+    ("Schedule", "/lums-cs360/#schedule"),
+    ("Labs", "/lums-cs360/general/labs.html"),
+    ("Project", "/lums-cs360/general/project.html"),
+    ("Individual", "/lums-cs360/general/individual.html"),
+    ("Resources", "/lums-cs360/general/resources.html"),
+    ("Discussion Forum", "/lums-cs360/general/help.html#discussion-forum"),
+    ("News & Notices", "/lums-cs360/#news-notices"),
+    ("Slides", "/lums-cs360/general/slides.html"),
+    ("Midterms", "/lums-cs360/general/midterms.html"),
+    ("Help", "/lums-cs360/general/help.html"),
 ]
- 
