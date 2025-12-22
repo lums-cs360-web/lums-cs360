@@ -22,15 +22,13 @@ save_as: index.html
 
 # Schedule 
 
-**You need to be logged in as your University of Alberta CCID/email account to view it.** The course schedule is updated in this [Google Sheet](https://docs.google.com/spreadsheets/d/1gO5NVjIeFrZOCFB-GnHLilNUxzPuu12ijRkGhwfJ_6M/edit?usp=sharing). Please remember that this is only a plan, and sometimes plans change.
+ The course schedule is updated in this [Google Sheet](https://docs.google.com/spreadsheets/d/1WXOvrmoseOKpqhYd16F1AkesHH3Ew_GlPVFuwbTS_4Y/edit?usp=sharing). Please remember that this is only a plan, and sometimes plans change.
 
-# Canvas
+# Slack
 
-[The current Canvas page is here.](https://canvas.ualberta.ca/courses/28550)
+[Join the slack channel.](https://join.slack.com/t/cs360-s26/shared_invite/zt-3llj3j7jl-d0rr4C3wiJVFPy~FlXdvaA)
 
-* Grades
-* Submissions
-* [Discussion Forum]({filename}/general/help.md#discussion-forum)
+
 
 
 ## News & Notices
