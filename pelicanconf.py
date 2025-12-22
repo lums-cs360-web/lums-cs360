@@ -70,7 +70,7 @@ INDEX_SAVE_AS="all.html"
 
 MENUITEMS = [
     ("Outline", "/lums-cs360/general/outline.html"),
-    ("Canvas & Grades", "/lums-cs360/#canvas"),
+    ("Slack", "/lums-cs360/#slack"),
     ("Schedule", "/lums-cs360/#schedule"),
     ("Labs", "/lums-cs360/general/labs.html"),
     ("Project", "/lums-cs360/general/project.html"),
