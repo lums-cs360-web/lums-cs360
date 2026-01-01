@@ -1,7 +1,7 @@
 title: Slides
 date: 2024-01-06
 tags: resources, policy, contact, wellness
-authors: Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Slides and per-topic resources
 
@@ -11,11 +11,12 @@ summary: Slides and per-topic resources
 
 # Welcome
 
-* [Welcome]({attach}slides/00_Welcome_Tang.pdf)  
+<!-- * [Welcome]({attach}slides/00_Welcome_Tang.pdf)  
 * Old slides (dates, times, assignments, exams, will be out of date)
     * [Welcome - Dr. Campbell]({attach}slides/000welcome-campbell.pdf)  
     * [Welcome - Prof. Wong]({attach}slides/00_Welcome_Wong.pdf) [2]({attach}slides/00_Welcome_Wong2.pdf)
-    * [Welcome - Prof. Hindle]({attach}slides/00_Welcome_Hindle.pdf)
+    * [Welcome - Prof. Hindle]({attach}slides/00_Welcome_Hindle.pdf) -->
+Add welcome slides here
 
 # Objects UML Java
 

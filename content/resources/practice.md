@@ -1,7 +1,7 @@
 Title: Exam Practice Questions
 date: 2024-09-03
 tags: resources, reading, references, videos, practice, exams
-authors: Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Exam Practice Questions
 

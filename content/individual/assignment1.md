@@ -1,7 +1,7 @@
 Title: Assignment 1
 date: 2025-09-02
 tags: individual, policy, grading
-authors: Hazel Victoria Campbell, Ken Wong, Abram Hindle
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Assignment 1
 ----
@@ -21,8 +21,8 @@ summary: Assignment 1
 
 # **Problem Description:**
 
-Develop an Android app called **YOURCCID-EmotiLog** (e.g.,
-kennyw-EmotiLog) that allows users to quickly log their feelings or
+Develop an Android app called **ROLLNUM-EmotiLog** (e.g.,
+25100052-EmotiLog) that allows users to quickly log their feelings or
 significant events by pressing emoticon buttons. The app should enable
 users to easily record each selected emoticon along with the
 corresponding timestamp, and then provide a summary of logs by frequency
@@ -120,7 +120,7 @@ over a specified period.
 
 6.  Submission Procedure:
 
-    -   Create a directory named **YOURCCID-EmotiLog** (e.g.,
+    -   Create a directory named **ROLLNUM-EmotiLog** (e.g.,
         kennyw-EmotiLog) and include the following subdirectories:
         **code**, **video**, **doc**.
     -   Place the Android Studio project in the **code** directory.
@@ -128,7 +128,7 @@ over a specified period.
         **code/app/build/outputs/apk/debug/app-debug.apk**.
     -   Store the demonstration video in the **video** directory.
     -   Keep UML documentation in the **doc** directory.
-    -   Zip the **YOURCCID-EmotiLog** directory and upload.
+    -   Zip the **ROLLNUM-EmotiLog** directory and upload.
 
 7.  Evaluation Criteria:
 

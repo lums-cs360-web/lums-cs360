@@ -1,7 +1,7 @@
 Title: Class Participation Exercise (Cohesion and Coupling)
 date: 2024-09-21
 tags: resources, participation, references, practice
-authors: Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Individual, Assignments, Participation
 

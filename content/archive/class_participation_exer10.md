@@ -1,7 +1,7 @@
 Title: Class Participation Exercise 10
 date: 2024-10-15
 tags: resources, reading, references, practice
-authors: Nathan Wu, Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Individual, Assignments, Participation
 

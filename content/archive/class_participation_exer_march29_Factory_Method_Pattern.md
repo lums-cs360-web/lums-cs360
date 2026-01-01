@@ -1,7 +1,7 @@
 Title: Class Participation Exercise: Factory Method Pattern (Mar 29)  
 date: 2024-09-19  
 tags: resources, reading, references, practice  
-authors: Hazel Victoria Campbell, Tina Nguyen  
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published  
 summary: Individual, Assignments, Participation  
 

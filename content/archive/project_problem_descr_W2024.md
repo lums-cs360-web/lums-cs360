@@ -1,7 +1,7 @@
 Title: Project Problem Description
 date: 2024-08-26
 tags: projects, teams, grading
-authors: Samuel Iwuchukwu, Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Project Problem Description
 [TOC]

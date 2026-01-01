@@ -1,7 +1,7 @@
 Title: Group Assignment 5: Presentation Marking Rubric
 date: 2024-04-05
 tags: labs, policy, grading
-authors: Hazel Victoria Campbell, Sarah Nadi
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 ----
 

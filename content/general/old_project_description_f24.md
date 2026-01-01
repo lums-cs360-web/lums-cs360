@@ -1,7 +1,7 @@
-Title: CMPUT 301 Course Old Project Problem Descriptions Fall 2024
+Title: CS360 Course Old Project Problem Descriptions Fall 2024
 date: 2024-11-12
 tags: labs, policy, grading
-authors: Samuel Iwuchukwu, Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 
 **Warning: This is subject to change!**

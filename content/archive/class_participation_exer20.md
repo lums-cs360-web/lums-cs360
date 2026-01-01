@@ -1,7 +1,7 @@
 Title: Class Participation Exercise 20
 date: 2024-09-10
 tags: resources, participation, references, practice
-authors: Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Individual, Assignments, Participation
 

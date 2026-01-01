@@ -1,7 +1,7 @@
 Title: Class Participation Exercise 3
 date: 2024-09-17
 tags: resources, reading, references, practice
-authors: Nathan Wu, Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Individual, Assignments, Participation
 

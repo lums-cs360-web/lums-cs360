@@ -1,7 +1,7 @@
 Title: Class Participation Exercise Proxy Pattern
 date: 2024-09-18
 tags: resources, participation, references, practice
-authors: Jakaria Rabbi
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Individual, Assignments, Participation
 

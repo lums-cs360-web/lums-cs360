@@ -1,7 +1,7 @@
 Title: A1/A2 Sept 23rd Class Exercise  
 date: 2024-10-17  
 tags: resources, reading, references, practice  
-authors: Hazel Victoria Campbell, Tina Nguyen  
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid 
 status: published  
 summary: Individual, Assignments, Participation  
 

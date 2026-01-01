@@ -1,7 +1,7 @@
 Title: Lab 3 Instructions
 date: 2024-01-06
 tags: labs, policy, grading
-authors: Samuel Iwuchukwu,Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Lab 3 Instructions
 

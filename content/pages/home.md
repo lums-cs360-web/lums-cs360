@@ -16,7 +16,7 @@ save_as: index.html
     * [Wellness Supports]({filename}/general/help.md#wellness-supports)
 * [Reference Material, e-books, & Resources]({filename}/general/resources.md)
 * [Absences]({filename}/general/help.md#absences-extensions)
-* [Discord]({filename}/general/help.md#where-to-not-get-help)
+* [Unofficial Channels]({filename}/general/help.md#where-to-not-get-help)
 
 [TOC]
 
@@ -29,12 +29,6 @@ save_as: index.html
 [Join the slack channel.](https://join.slack.com/t/cs360-s26/shared_invite/zt-3llj3j7jl-d0rr4C3wiJVFPy~FlXdvaA)
 
 
-
-
-## News & Notices
-
-[The latest news and notices for students.](https://canvas.ualberta.ca/courses/28550/announcements)
-Check this regularly!
 
 # More Stuff
 

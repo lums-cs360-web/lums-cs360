@@ -1,7 +1,7 @@
 Title: Learning Resources & Reference Materials
 date: 2024-01-06
 tags: resources, reading, references, videos
-authors: Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Resources, Reference Materials, Notes, Videos, Slides
 

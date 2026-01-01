@@ -1,7 +1,7 @@
 title: SPM and SDA MOOC Resources
 date: 2024-01-06
 tags: resources, reading, references, videos
-authors: Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Resources, Reference Materials, Notes, Videos, Slides
 
@@ -13,9 +13,9 @@ summary: Resources, Reference Materials, Notes, Videos, Slides
 
 This page lists selected videos and course resources from the [Software Product Management MOOC Specialization](https://www.coursera.org/specializations/product-management), and the [Software Design and Architecture MOOC Specialization](https://www.coursera.org/specializations/software-design-architecture), two of several [University of Alberta MOOCs](https://www.ualberta.ca/en/admissions-programs/online-courses/index.html#utm_campaign=vanity&utm_source=vanity&utm_medium=vanity&utm_content=uab.ca%2Fmoocs) available at [Coursera](https://www.coursera.org/).
 
-This material is copyrighted by the University of Alberta.
+<!-- This material is copyrighted by the University of Alberta. -->
 
-**You must be authenticated with your @ualberta.ca Google account to access the links.**
+<!-- **You must be authenticated with your @ualberta.ca Google account to access the links.** -->
 
 # Coursera
 
@@ -125,7 +125,3 @@ This material is copyrighted by the University of Alberta.
 * [SDA 2.3.7 Code Smells 1 (11 min)](https://drive.google.com/file/d/1K0t4IbIlg2FsfoOUBtcxCkDhf06968aN/view)
 * [SDA 2.3.7 Code Smells 2 (13 min)](https://drive.google.com/file/d/14__EgQno2YRO-yX56VukGPb-ob_Q0YKV/view)
 
-
-# Reference Materials
-
-* [SPM and SDA MOOC Resources](https://eclass.srv.ualberta.ca/mod/page/view.php?id=7590565)

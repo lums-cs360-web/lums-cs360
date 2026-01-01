@@ -1,7 +1,7 @@
 Title: Old Participation Exercise
 date: 2024-09-03
 tags: resources, archive, participation
-authors: Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Old Participation Exercise
 

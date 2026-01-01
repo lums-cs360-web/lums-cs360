@@ -1,7 +1,7 @@
 Title: Midterms
 date: 2025-09-09
 tags: resources, reading, references, videos, practice, exams
-authors: Abram Hindle, Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Exam Practice Questions
 

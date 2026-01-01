@@ -1,7 +1,7 @@
 Title: Class Participation Exercise Command Pattern
 date: 2020 -03-20
 tags: resources, participation, references, practice
-authors: Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Individual, Assignments, Participation
 

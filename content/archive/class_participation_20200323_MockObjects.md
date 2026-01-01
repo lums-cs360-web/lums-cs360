@@ -1,7 +1,7 @@
 title: Class Participation Exercise Mock Objects
 date: 2020-03-23
 tags: resources, participation, references, practice
-authors: Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Individual, Assignments, Participation
 
@@ -12,7 +12,7 @@ summary: Individual, Assignments, Participation
 ```
 Submit the java code as online text.
 
-// CMPUT 301 Mock Object Quiz!
+// CS360 Mock Object Quiz!
 //
 // You probably have to use the back of the page for this quiz.
 //

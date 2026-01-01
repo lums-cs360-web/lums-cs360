@@ -1,10 +1,10 @@
-Title: CMPUT 301 Course Fall 2021
+Title: CS360 Course Fall 2021
 date: 2024-11-12
 tags: labs, policy, grading
-authors: Samuel Iwuchukwu, Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 
-# CMPUT 301 Course Outline
+# CS360 Course Outline
 
 ## General Information
 
@@ -31,15 +31,7 @@ Location: CSC B-02
 Date and Time: Thursday 17:00-19:50
 Location: NRE 2-003
 
-See [Contact Information](https://ualberta-cmput301.github.io/general/help.html#contact-instructor) for details about your instructor and teaching assistants.
 
-
-
-Policy about course outlines can be found in [Course Requirements, Evaluations Procedures and Grading](https://calendar.ualberta.ca/content.php?catoid=33&navoid=9816#course-requirements,-evaluation-procedures-and-grading) of the University Calendar.
-
-This statement is required verbatim, as per Calendar regulations.
-
-Disclaimer: Any errors in this Course Outline and Course Policy are subject to change and will be announced in class. The date of the final examination is set by the Registrar and takes precedence over the final examination date reported in this syllabus.
 
 ## Overview
 
@@ -62,9 +54,6 @@ By the end of this course, you will have a strong background in basic software e
 
 Students are expected to participate in all classes and labs.
 
-## Pre-requisites
-
-CMPUT 201 or 275
 
 ## Course Topics
 
@@ -97,7 +86,6 @@ Exams are synchronized.
 In the labs, the TAs will explain the submission process for lab exercises (typically online). Late submissions will not be accepted.
 
 
-Note the rightmost column below, which shows collaboration models for each unit of course work. These models are described on the [CS course policy page:](https://www.ualberta.ca/computing-science/resources/policy-information/department-course-policies.html)
 
 |Individual Work  | Assignment 0| required | September 20 | Consultation | 
 <!-- @LT-IGNORE:CONSECUTIVE_SPACES@ @LT-IGNORE:WHITESPACE_RULE@ -->
@@ -157,13 +145,5 @@ You may assume that any code examples we provide to you are public domain and fr
 
 Please see the Final Exam page when posted for representative example questions.
 
-## Academic Integrity
-The University of Alberta is committed to the highest standards of academic integrity and honesty. Students are expected to be familiar with these standards regarding academic honesty and to uphold the policies of the University in this respect. Students are particularly urged to familiarize themselves with the provisions of the Code of Student Behaviour (online at www.governance.ualberta.ca) and avoid any behaviour which could potentially result in suspicions of cheating, plagiarism, misrepresentation of facts and/or participation in an offence. Academic dishonesty is a serious offence and can result in suspension or expulsion from the University. (GFC 29 SEP 2003)
 
-## Course Policies
-Please see the Course Policies specific to CMPUT 301.
 
-Most course policies are determined by the Department of Computing Science. See the following page for general information on CS course policies.
-
-https://www.ualberta.ca/computing-science/resources/policy-information/department-course-policies.html
-Last modified: Wednesday, 1 September 2021, 9:51 AM

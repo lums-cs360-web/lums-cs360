@@ -1,7 +1,7 @@
 title: Class Participation Exercise Simple Factory
 date: 2020-03-27
 tags: resources, participation, references, practice
-authors: Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Individual, Assignments, Participation
 

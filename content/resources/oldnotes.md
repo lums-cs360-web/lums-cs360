@@ -1,7 +1,7 @@
 title: Old Lab Notes
 date: 2024-11-02
 tags: resources, reading, references
-authors: Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Old Lab Notes
 

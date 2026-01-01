@@ -1,7 +1,7 @@
 Title: Project Part 0
 date: 2024-08-26
 tags: projects, teams, grading
-authors: Samuel Iwuchukwu, Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Project Part 0
 ---
@@ -25,7 +25,7 @@ For an initial teamwork exercise you will be asked to pick a team name according
 Every team member will need to submit the following:
 
 * The lab section (Tuesday/Wednesday/Thursday)
-* Each team member's CCID
+* Each team member's ROLLNUM
 * Each team member's name
 * Each team member's GitHub username
 * A proposed team name
@@ -49,7 +49,6 @@ All members of the team must submit the Google Form: [Form](https://docs.google.
 * If you do not submit on time, you will receive a mark of zero. No late submissions are allowed. No extensions will be granted.
 * Every team member must submit. If you don't submit you will receive a mark of zero even if your other team members submitted.
 * You will be deducted one mark for each violation of the required submission format!
-    * This includes using a student ID instead of a CCID, or using a name instead of a CCID, or using an email account instead of a CCID... etc.
     * This also includes violating the team name format
 
 

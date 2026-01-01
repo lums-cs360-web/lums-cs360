@@ -79,7 +79,7 @@ tr:nth-child(even) {
 }
 
 a, a:visited, a:active {
-  color: rgb(39, 93, 56);
+  color: #19177C;
 }
 
 a:hover {

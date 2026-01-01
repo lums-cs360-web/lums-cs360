@@ -1,7 +1,7 @@
-Title: CMPUT 301 Course Old Project Problem Descriptions
+Title: CS360 Course Old Project Problem Descriptions
 date: 2024-11-12
 tags: labs, policy, grading
-authors: Samuel Iwuchukwu, Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 
 You are to design and implement a simple, attractive, and easy-to-use Android application to satisfy the follow goals. Your design must be flexible enough to allow future developers to extend or migrate it.

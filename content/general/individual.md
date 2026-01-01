@@ -1,7 +1,7 @@
 Title: Individual
 date: 2024-03-20
 tags: assignment, grading
-authors: Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Individual Assignments, Participation
 ----

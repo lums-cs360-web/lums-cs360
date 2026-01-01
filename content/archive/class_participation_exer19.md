@@ -1,7 +1,7 @@
 Title: Class Participation Exercise 19
 date: 2024-09-03
 tags: resources, participation, exercise, archive
-authors: Samuel Iwuchukwu, Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Class Participation Exercise 19
 

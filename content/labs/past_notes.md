@@ -1,7 +1,7 @@
 Title: Lab 4 Participation Exercise Past Notes
 date: 2024-01-06
 tags: labs, policy, grading
-authors: Samuel Iwuchukwu,Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Lab 4 Participation Exercise
 

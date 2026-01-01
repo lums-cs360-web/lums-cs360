@@ -1,7 +1,7 @@
 Title: B2 27th March Class Exercise  
 date: 2024-10-08    
 tags: resources, reading, references, practice  
-authors: Hazel Victoria Campbell, Tina Nguyen  
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published  
 summary: Individual, Assignments, Participation  
 

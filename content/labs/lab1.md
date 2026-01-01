@@ -1,7 +1,7 @@
 Title: Lab 1
 date: 2024-08-19
 tags: labs, policy, grading
-authors: Samuel Iwuchukwu, Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Lab 1 -- Java, OOP, Android Studio
 

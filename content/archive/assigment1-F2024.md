@@ -1,7 +1,7 @@
 Title: Assignment 1
 date: 2024-08-12
 tags: individual, policy, grading
-authors: Hazel Victoria Campbell, Ken Wong, Abram Hindle
+authors: Dr Abdul Ali Bangash, Dr Suleman
 status: published
 summary: Assignment 1
 ----
@@ -117,7 +117,7 @@ inadequate or improper citations
 These are brown M&M rules.
 
 # **Submission Procedure**
-Create an assignment directory called YOURCCID-MyBookWishlist (e.g., kennyw-MyBookWishlist), and within it have three subdirectories: code,  video,  doc. 
+Create an assignment directory called ROLLNUM-MyBookWishlist (e.g., 25100052-MyBookWishlist), and within it have three subdirectories: code,  video,  doc. 
 
 Your Android Studio project directory goes within code. The compiled binary APK file(s) should be found within an /app/build/intermediates/apk/debug/app-debug.apk subdirectory or /app/build/outputs/apk/debug/app-debug.apk within the project directory. The video file goes in the video subdirectory. The UML documentation goes in the doc subdirectory.
 
@@ -127,7 +127,7 @@ Zip the assignment directory and upload to eClass.
 
 Please make sure all the required files are included to build the app. The TA will test your app from the submitted code and APK file.
 
-The app name must show up as YOURCCID-MyBookWishlist (e.g., kennyw-MyBookWishlist), so that it can be easily distinguished from other submissions.
+The app name must show up as ROLLNUM-MyBookWishlist (e.g., 25100052-MyBookWishlist), so that it can be easily distinguished from other submissions.
 
 **This is how the assignment will be marked:**
 

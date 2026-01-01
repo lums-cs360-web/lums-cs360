@@ -1,7 +1,7 @@
 Title: Group Project
 date: 2024-01-06
 tags: project, grading
-authors: Samuel Iwuchukwu, Abram Hindle, Hazel Victoria Campbell,
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: 301 Group Project
 ----

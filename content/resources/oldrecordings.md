@@ -1,7 +1,7 @@
 Title: Old Lecture Recordings
 date: 2024-09-03
 tags: resources, reading, references, videos
-authors: Hazel Victoria Campbell
+authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
 status: published
 summary: Old Lecture Recordings 2020-2022
 
@@ -25,19 +25,3 @@ All information about
 only applied to the semester they were recorded, so it's wrong for this year!
 This material is provided as extra study material ONLY.
 </aside>
-
-You must be authenticated with your @ualberta.ca Google account to access the links.
-
-* [W24 Midterm Videos](https://ualberta.yuja.com/V/PlayList?node=7070381&a=143561484)
-* [W22 Midterm Videos](https://ualberta.yuja.com/V/PlayList?node=5979298&a=1449554772)
-* [Winter 2022 Labs](https://drive.google.com/drive/folders/109xOY3KrpAWL65nvRynCtqtVFxBS1OYD?usp=sharing)
-* [Winter 2022 Lectures - Hindle](https://ualberta.yuja.com/V/PlayList?node=5978106&a=145710921)
-* [Fall 2022 Lectures](https://docs.google.com/document/d/1isx26hd_oihDgiauv_IyfuRRsN6qMJ5IJpoxVoa8Vdk/edit?usp=sharing)
-* [W21 Midterm Videos](https://ualberta.yuja.com/V/PlayList?node=5979329&a=835411974)
-* [Winter 2021 Lectures](https://ualberta.yuja.com/V/PlayList?node=5978106&a=145710921)
-* [Fall 2021 Lectures](https://docs.google.com/document/d/1pff1pFhtF-H2EmY4V0azfTN0E81ESHAuNsVaJMuGgSw/edit?usp=sharing)
-* [Fall 2021 Labs (Google Doc Link)](https://docs.google.com/document/d/1rr7ptZtb7CiAOOjajyq_VTNXxF9ty5W81YaGcPyVL2s/edit?usp=sharing)
-* [Fall 2021 Labs]({filename}../archive/fall_lab_recordings_2021.md)
-* [Fall 2020 Lectures](https://docs.google.com/document/d/1wjBVtsqbt48LU0ddDTcRaRBUNE-j4PHutx8z7AMBQ_k/edit?usp=sharing)
-* [Fall 2020 Labs (Google Doc Link)](https://docs.google.com/document/d/1Oqy_YPqsctJzYU9kLt0GamkoMiqJ5_si-ZS-6us9SCM/edit?usp=sharing)
-* [Fall 2020 Labs]({filename}../archive/fall_lab_recordings_2020.md)
