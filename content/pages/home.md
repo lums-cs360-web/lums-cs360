@@ -4,21 +4,21 @@ save_as: index.html
 
 ----
 
-* [Course Outline]({filename}/general/outline.md) (Syllabus)
-* [Contact Info]({filename}/general/help.md#contact-instructor)
-    * Students: see [How to get Help]({filename}/general/help.md)
-* [Lecture Slides]({filename}/general/slides.md)
-* [Labs]({filename}/general/labs.md)
-* [Project]({filename}/general/project.md)
-* [Assignments]({filename}/general/individual.md)
-* [Participation]({filename}/general/individual.md#participation)
-* [How to get Help]({filename}/general/help.md)
-    * [Wellness Supports]({filename}/general/help.md#wellness-supports)
-* [Reference Material, e-books, & Resources]({filename}/general/resources.md)
-* [Absences]({filename}/general/help.md#absences-extensions)
-* [Unofficial Channels]({filename}/general/help.md#where-to-not-get-help)
 
-[TOC]
+Use the links below to access the main course components.
+
+**[Outline](/lums-cs360/general/outline.html)**  
+**[Schedule](/lums-cs360/#schedule)**  
+**[Slack](https://join.slack.com/t/cs360-s26/shared_invite/zt-3llj3j7jl-d0rr4C3wiJVFPy~FlXdvaA)**  
+**[Labs](/lums-cs360/general/labs.html)**  
+**[Project](/lums-cs360/general/project.html)**  
+**[Assignments](/lums-cs360/general/individual.html)**  
+**[Slides](/lums-cs360/general/slides.html)**  
+**[Resources](/lums-cs360/general/resources.html)**  
+**[Help](/lums-cs360/general/help.html)**
+
+
+<!-- [TOC] -->
 
 # Schedule 
 

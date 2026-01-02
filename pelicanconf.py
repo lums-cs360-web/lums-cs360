@@ -6,7 +6,7 @@ SITEURL = ""
 PATH = "content"
 
 
-TIMEZONE = 'America/Edmonton'
+TIMEZONE = 'Asia/Karachi'
 
 DEFAULT_LANG = 'en'
 
