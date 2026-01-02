@@ -8,7 +8,7 @@ save_as: index.html
 Use the links below to access the main course components.
 
 **[Outline](/lums-cs360/general/outline.html)**  
-**[Schedule](/lums-cs360/#schedule)**  
+**[Schedule](https://docs.google.com/spreadsheets/d/1WXOvrmoseOKpqhYd16F1AkesHH3Ew_GlPVFuwbTS_4Y/edit?usp=sharing)**  
 **[Slack](https://join.slack.com/t/cs360-s26/shared_invite/zt-3llj3j7jl-d0rr4C3wiJVFPy~FlXdvaA)**  
 **[Labs](/lums-cs360/general/labs.html)**  
 **[Project](/lums-cs360/general/project.html)**  
