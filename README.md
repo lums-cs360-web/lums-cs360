@@ -1,15 +1,15 @@
-# ualberta-cmput301.github.io <!-- @LT-IGNORE:GITHUB@ -->
-CMPUT 301 Website
+# lums-cs360-web.github.io/lums-cs360/ <!-- @LT-IGNORE:GITHUB@ -->
+CS360 Website
 
-<https://ualberta-cmput301.github.io/>
+<https://lums-cs360-web.github.io/lums-cs360/>
 
 Please file an issue if you find anything wrong or missing on the site.
 
 # Installation
 
-- Clone the repository (**git clone https://github.com/ualberta-cmput301/ualberta-cmput301.github.io.git**)
+- Clone the repository (**git clone https://github.com/lums-cs360-web/lums-cs360.git**)
 
-- Change directory (**cd ualberta-cmput301.github.io**)
+- Change directory (**cd lums-cs360**)
 
 - Create a virtual environment (**virtualenv venv --python=python3**)
 
@@ -24,6 +24,6 @@ Please file an issue if you find anything wrong or missing on the site.
 
 - Deploy live (**make github**)
 
-# N.B Please ensure you make changes on a seperate branch, test it locally before deploying to main branch
+# N.B Please ensure you make changes on a separate branch, test it locally before deploying to main branch
 
 
