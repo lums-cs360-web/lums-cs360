@@ -105,9 +105,9 @@ public interface Tweetable {
 
 # Submission
 
-Canvas
+LMS
 
 Note: Running the project is not necessary.
 
 
-* **Due date:** Check the [schedule]({filename}/pages/home.md#schedule). (Usually Friday after the lab at 4PM)
+* **Due date:** Check the [schedule]({filename}/pages/home.md#schedule). (Usually Thursday 5PM)

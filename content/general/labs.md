@@ -9,7 +9,16 @@ summary: Lab Procedure, Lab Assignments, Lab Marking
 
 [TOC]
 
-Labs are in ETLC E1-003 5pm to 8pm Tuesday, Wednesday, Thursday.
+## Lab Schedule
+
+Labs will be held **online on Microsoft Teams**.
+
+**Timings:**  
+- **Monday:** 6:00 PM – 8:00 PM  
+- **Wednesday:** 6:00 PM – 8:00 PM  
+
+Students will be assigned to a specific lab group and will attend **one of the above sessions**, depending on their assigned group.
+
 
 # Lab 1
 
@@ -55,7 +64,7 @@ From the syllabus
 
 > Missed Labs:
 
-> Labs are due Friday at 5PM on the same week the lab was presented. Project meetings are due at the time of the meeting, and they are included in the lab mark. Failure to attend and actively participate in project meetings will result in a lab mark of zero.
+> Labs are due Thursday at 5PM on the same week the lab was presented. Project meetings are due at the time of the meeting, and they are included in the lab mark. Failure to attend and actively participate in project meetings will result in a lab mark of zero.
 > 
 > The 2 lowest marks for Labs (including project meetings) will be dropped when calculating the course mark. No late labs will be accepted. Failure to complete a lab (or to attend a project meeting) on time for any reason will result in a mark of zero. Please note that you can miss 2 labs (or project meetings) without penalty.
 

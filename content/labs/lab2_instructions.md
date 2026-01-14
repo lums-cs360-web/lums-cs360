@@ -50,10 +50,10 @@ Here are some screenshots from an example application that demonstrate the requi
 
 # Submission
 
-Canvas
+LMS
 
 **Note: Proper completion of this exercise is considered as part of course participation.**
 
 **Due Date**
 
-Friday after the Thursday lab at 4PM
+Thursday 5PM

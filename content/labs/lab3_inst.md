@@ -49,8 +49,8 @@ Example of a newInstance method in AddCityFragment (Hint #3)
 
 # Submission
 
-Canvas
+LMS
 
 **Due Date**
 
-Friday after the lab at 4PM
+Thursday 5PM

@@ -2,9 +2,13 @@ Title: Home
 URL:
 save_as: index.html
 
-----
+----                                     
+**Credits:**  
+**This course website is adapted from and largely copied from the  
+CMPUT 301 – Software Engineering (University of Alberta) course website.  
+All original material and structure belong to the CMPUT 301 instructional team at UAlberta.**
 
-
+---
 Use the links below to access the main course components.
 
 **[Outline](/lums-cs360/general/outline.html)**  
@@ -28,9 +32,11 @@ Use the links below to access the main course components.
 
 [Join the slack channel.](https://join.slack.com/t/cs360-s26/shared_invite/zt-3llj3j7jl-d0rr4C3wiJVFPy~FlXdvaA)
 
-
+# News & Notices
+The latest news and notices for students is on Slack. Check this regularly!
 
 # More Stuff
 
 * [All pages]({index})
 * [GitHub source](https://github.com/ualberta-cmput301/ualberta-cmput301.github.io/commits/main/)
+

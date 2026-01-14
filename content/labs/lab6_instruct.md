@@ -49,8 +49,8 @@ In this exercise your task is to **implement and test** the following methods in
 
 # Submission
 
-Canvas
+LMS
 
 **Due Date**
 
-Friday after the Thursday lab at 4PM
+Thursday 5PM

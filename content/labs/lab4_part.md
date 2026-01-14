@@ -51,7 +51,7 @@ This task is for teams.
 
 2. As a member, on your local machine:
 
-    + (Do not fork) Clone the repository and create a branch with your name (do not use CCID).
+    + (Do not fork) Clone the repository and create a branch with your name (do not use RollNum).
     + Create a model class (ex. circle, rectangle, star, etc) (new java file) that extends Shape in your own branch.
     + Commit the change and push the branch to GitHub.
     + Create a pull request to main in Github.
@@ -72,10 +72,10 @@ This task is for teams.
 
 Please submit:
 
-1. Your CCID (not your student id number!)
+1. Your RollNum
 
-2. Link to your branch in the repository at Canvas
+2. Link to your branch in the repository at LMS
 
 **Due Date**
 
-Friday after the Thursday lab at 4PM
+Thursday 5PM

@@ -30,8 +30,8 @@ After applying the changes in the lab demo [(LINK TO INSTRUCTIONS)]({attach}slid
 
 # Submission
 
-Canvas
+LMS
 
 **Due Date**
 
-Friday after the Thursday lab at 5 PM
+Thursday 5PM

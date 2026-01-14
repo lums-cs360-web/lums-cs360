@@ -38,8 +38,8 @@ In this lab, we will learn about test driven development (TDD) and continuous in
 
 # Submission
 
-Canvas
+LMS
 
 **Due Date**
 
-Friday after the Thursday lab at 4PM
+Thursday 5PM
