@@ -15,7 +15,11 @@ summary: Lecture, Labs, Contact Information, Lecturer, Teaching Assistants, Cour
 
 **Instructor:** Dr Abdul Ali Bangash, Dr Suleman Shahid, Safa Salam  
 **Office:**	  
-**E-mail:** [abdulali@lums.edu.pk](mailto:abdulali@lums.edu.pk)[suleman.shahid@lums.edu.pk](mailto:suleman.shahid@lums.edu.pk)[safa.salam@lums.edu.pk](mailto:safa.salam@lums.edu.pk)
+**E-mail:** [abdulali@lums.edu.pk](mailto:abdulali@lums.edu.pk)
+
+[suleman.shahid@lums.edu.pk](mailto:suleman.shahid@lums.edu.pk)
+
+[safa.salam@lums.edu.pk](mailto:safa.salam@lums.edu.pk)
 <!-- **Web Page: [https://softwareprocess.ca/](https://softwareprocess.ca/)**  -->
 
 **Office Hours**
@@ -27,12 +31,14 @@ summary: Lecture, Labs, Contact Information, Lecturer, Teaching Assistants, Cour
 **Office:**	
 
 **E-mail:** [abdulali@lums.edu.pk](mailto:abdulali@lums.edu.pk)
+
 [suleman.shahid@lums.edu.pk](mailto:suleman.shahid@lums.edu.pk)
+
 [safa.salam@lums.edu.pk](mailto:safa.salam@lums.edu.pk)
 
 **Office Hours:** TBA
 
-**Teaching Assistant(s):** Available on the course webpage  
+**Teaching Assistant(s):** Available on LMS 
 
 **Labs:** Online 6pm to 8pm MW
 ---
