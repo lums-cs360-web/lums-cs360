@@ -10,7 +10,7 @@ summary: Lab 7 Instructions
 
 ## Lab Topic/Demo
 
-- [Lab7 Instructions-Android UI Testing]({attach}/labs/slides/L7IntentTesting.pdf)
+- [Lab7 Instructions-Android UI Testing]({attach}/labs/slides/Lab7.pdf)
 - [Lab 7 Starter Code](https://github.com/natewu/cmput301-lab7-starter) (clone this repo)
 - [Lab 7 Starter Code Download]({attach}slides/Lab_7_starter_code.zip)
 

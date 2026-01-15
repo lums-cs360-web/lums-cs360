@@ -8,7 +8,7 @@ summary: Lab 6 Instructions
 
 # Lab 6 Instructions
 
-1. Follow the slides on [Javadoc]({attach}slides/Javadoc.pdf) and [JUnit]({attach}slides/JUnit.pdf)
+1. Follow the slides on [Javadoc]({attach}slides/Lab6_Javadoc.pdf) and [JUnit]({attach}slides/Lab6_JUnit.pdf)
 
 2. Follow instructions on this [link]({attach}slides/Lab_6_Instructions_F24_updated.pdf) along with the TA.
 

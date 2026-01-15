@@ -11,7 +11,7 @@ summary: Lab 1 -- Java, OOP, Android Studio
 
 # Lab 1 Slides
 
-* [Lab 1 Slides]({attach}slides/CMPUT_301_LAB_1.pdf)
+* [Lab 1 Slides]({attach}slides/Lab1.pdf)
 
 # Instructions
 

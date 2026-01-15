@@ -9,7 +9,7 @@ summary: Lab 5 Instructions
 # Lab 5 Instructions
 
 Read [Firestore 🔥.pdf]({attach}slides/Firestore.pdf) for introduction of Firestore
-Follow instructions on [Lab 5 Firestore Integration Instructions.pdf]({attach}slides/Lab5FIntegNew.pdf) along with the TA.
+Follow instructions on [Lab 5 Firestore Integration Instructions.pdf]({attach}slides/Lab5.pdf) along with the TA.
 Complete Lab Exercise.
 
 Download Starter Code [here](https://github.com/cmput301-f25/Lab05)
