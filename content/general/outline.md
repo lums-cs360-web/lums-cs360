@@ -20,19 +20,17 @@ summary: Lecture, Labs, Contact Information, Lecturer, Teaching Assistants, Cour
 
 **Office Hours**
 
-**Lecture Room & Time:** LEC A2 \- ETLC E1-017 (MWF 11:00am \- 11:50am)  
-			    LEC A3 \- ETLC E1-017 (MWF 12:00pm \- 12:50pm)  
+**Lecture Room & Time:** LEC - SDSB B3 ( T/Thu 01:00pm - 02:15pm)  
+			
 **Instructor:**   Dr Abdul Ali Bangash, Dr Suleman Shahid, Safa Salam 
 **Office:**	
 **E-mail:** [abdulali@lums.edu.pk](mailto:abdulali@lums.edu.pk)[suleman.shahid@lums.edu.pk](mailto:suleman.shahid@lums.edu.pk)[safa.salam@lums.edu.pk](mailto:safa.salam@lums.edu.pk)
 
-**Office Hours:** Thursdays 11:00am \- 2:00pm
-
-**Lecture Room & Time:** LEC A1 \- ED N 2-115 (MWF 10:00am \- 10:50am)
+**Office Hours:** TBA
 
 **Teaching Assistant(s):** Available on the course webpage  
 
-**Labs:** ETLC E1-003 5pm to 7:50pm TWR
+**Labs:** Online 6pm to 8pm MW
 ---
 
 **COURSE CONTENT**
@@ -80,7 +78,7 @@ Students will be required to use the online service Firebase in order to complet
 
 **On-Line Homework Disclaimer:** 
 
-* Online homework is a component of this course and is provided by a third-party company. Please be aware that this company will be storing assessment information that may be associated with you. As a way to protect your personal information, you may be assigned a random ID to enter into the system. Only the random ID, performance on the online homework, and the affiliation to the University of Alberta for this random ID will be conveyed to the company. You are not required to provide any additional personal information to this company. If you have concerns about this, please contact the instructor of the course.
+* Online homework is a component of this course and is provided by a third-party company. Please be aware that this company will be storing assessment information that may be associated with you. As a way to protect your personal information, you may be assigned a random ID to enter into the system. Only the random ID, performance on the online homework, and the affiliation to the LUMS for this random ID will be conveyed to the company. You are not required to provide any additional personal information to this company. If you have concerns about this, please contact the instructor of the course.
 
 * Firebase (Google) \- See "Course Fees" above.
 
@@ -119,19 +117,13 @@ Grades are unofficial until approved by the Department and/or Faculty offering t
 50 minute exams at:
 
 - Midterm 1
-    - A1/EA1 September 26, 2025 10:00 AM
-    - A2/EA2 September 26, 2025 11:00 AM
-    - A3/EA3 September 26, 2025 12:00 PM (NOON)
+    - February 12, 2026 01:00 PM
 
 - Midterm 2
-    - A1/EA1 October 24, 2025 10:00 AM
-    - A2/EA2 October 24, 2025 11:00 AM
-    - A3/EA3 October 24, 2025 12:00 PM (NOON)
+    - March 12, 2026 01:00 PM
 
 - Midterm 3
-    - A1/EA1 December 5, 2025 10:00 AM
-    - A2/EA2 December 5, 2025 11:00 AM
-    - A3/EA3 December 5, 2025 12:00 PM (NOON)
+    - April 23, 2026 01:00 PM
 
 
 
@@ -277,7 +269,7 @@ Receiving assignment solutions or answers to exam questions from an unauthorized
 
 **Additional Examples of Contract Cheating:**
 
-| Logging in as someone else Sharing your login credentials Sharing your anonymous ID Using someone else's anonymous ID Allowing someone else to log in as you Representing yourself as someone else Having someone else represent themselves as you | On other UAlberta services and linked services: Zoom gmail Google Chat, Drive, ... Lab computers Wi-Fi ... On an external service, website, or app: repository hosting services: GitHub, GitHub Classroom, Bitbucket, GitLab, ... live quiz services: Mentimeter, ... Textbook websites/apps KnowledgeTree/MasteryGrids online tutorials online practice systems online homework systems |  |
+| Logging in as someone else Sharing your login credentials Sharing your anonymous ID Using someone else's anonymous ID Allowing someone else to log in as you Representing yourself as someone else Having someone else represent themselves as you | On other LUMS services and linked services: Zoom gmail Google Chat, Drive, ... Lab computers Wi-Fi ... On an external service, website, or app: repository hosting services: GitHub, GitHub Classroom, Bitbucket, GitLab, ... live quiz services: Mentimeter, ... Textbook websites/apps KnowledgeTree/MasteryGrids online tutorials online practice systems online homework systems |  |
 | :---- | :---- | :---- |
 
 * Misrepresenting authorship to a version control system such as git:  
@@ -285,7 +277,7 @@ Receiving assignment solutions or answers to exam questions from an unauthorized
   * Creating git commits where the author recorded did not create the changes being committed.  
   * ...  
 * Submitting participation exercises for someone else.  
-* Representing yourself as someone else, or having someone else represent themselves as you to an instructor, TA, or other UA employee.  
+* Representing yourself as someone else, or having someone else represent themselves as you to an instructor, TA, or other LUMS employee.  
   * Attending a lecture/lab/seminar for someone else.  
   * Having someone else attend a lecture/lab/seminar for you.
 
@@ -307,7 +299,7 @@ For programming assignments, powerful software tools are used to detect plagiari
 * For some substantial programming assignments and homework questions, students may discuss the concepts covered by the assignment with other students registered in the course as long as they do not share actual solutions or programming code.  
 * All suspected cases of plagiarism will be forwarded to the Dean's office and thoroughly investigated. Receiving a low mark for work not completed is a far superior alternative to this process and its possible long-term consequences for your career.
 
-All suspected cases of plagiarism and other forms of cheating are immediately referred to the College of Natural and Applied Sciences (CNAS). CNAS, not your instructor, will determine what course of action is appropriate. We do not hesitate to send ALL cases of cheating to CNAS. Please do not put yourself or us into such an unpleasant situation. Please read the Student Conduct Policy carefully.
+All suspected cases of plagiarism and other forms of cheating are immediately referred to the Disciplinary Committee. Please do not put yourself or us into such an unpleasant situation. 
 
 **Citations:**  
 If you include code or ideas from someone who isn't you (including from a Generative AI or LLM) you must cite it. Here are examples of an appropriate citation:
@@ -430,7 +422,6 @@ In this course, Intellectual Violence is considered bullying. Intellectual viole
 * Using harsh or condescending language in comments, code reviews, pull requests, issues, commit messages, etc.  
 * Making contributors feel unwelcome.
 
-Instances of Intellectual Violence may result in reduced marks and/or be referred to the Dean of Students under the Student Conduct Policy.
 
 **Exam Conduct:**   
 
@@ -440,10 +431,10 @@ Some key points to be aware of:
 * Students must arrive at the specified time to take the exam. Once the exam has started, students must remain in the physical in-person or remote environment for at least 30 minutes. Students who arrive more than 30 minutes late for an in-person exam will not be permitted to take the exam. Students who arrive more than 30 minutes late for an online exam may have their exam attempt removed or disqualified by the instructor. In both cases, students may apply for a deferred examination.  
 * All cell phones must be turned off and stored in your bags.
 
-**Accommodations for Students:**  
+<!-- **Accommodations for Students:**  
 In accordance with the University of Alberta’s [Discrimination, Harassment, and Duty to Accommodate policy](https://www.ualberta.ca/en/alfresco/uappol/humanresources/discrimination-harassment-and-duty-to-accommodate/policy/discrimination-harassment-and-duty-to-accommodate-policy.pdf), accommodation support is available to eligible students who encounter limitations or restrictions to their ability to perform the daily activities necessary to pursue studies at a post-secondary level due to medical conditions and/or non-medical protected grounds. Accommodations are coordinated through the [Academic Success Centre](https://www.ualberta.ca/current-students/academic-success-centre/index.html), and students can learn more about eligibility on the [Register for Accommodations website](https://www.ualberta.ca/en/current-students/academic-success-centre/accessibility-resources/register/index.html). 
 
-It is recommended that students apply ***AS SOON AS POSSIBLE*** in order to ensure sufficient time to complete accommodation registration and coordination. Students are advised to review and adhere to published deadlines for accommodation approval and for specific accommodation requests (e.g., exam registration submission deadlines). Students who request accommodations less than a month in advance of the academic term for which they require accommodations may experience unavoidable delays or consequences in their academic programs, and may need to consider alternative academic schedules.
+It is recommended that students apply ***AS SOON AS POSSIBLE*** in order to ensure sufficient time to complete accommodation registration and coordination. Students are advised to review and adhere to published deadlines for accommodation approval and for specific accommodation requests (e.g., exam registration submission deadlines). Students who request accommodations less than a month in advance of the academic term for which they require accommodations may experience unavoidable delays or consequences in their academic programs, and may need to consider alternative academic schedules. -->
 
 **Recording and/or Distribution of Course Materials:**  
 Audio or video recording, digital or otherwise, of lectures, labs, seminars or any other teaching environment by students is allowed only with the prior written consent of the instructor or as a part of an approved accommodation plan. Student or instructor content, digital or otherwise, created and/or used within the context of the course is to be used solely for personal study, and is not to be used or distributed for any other purpose without prior written consent from the content authors.  
