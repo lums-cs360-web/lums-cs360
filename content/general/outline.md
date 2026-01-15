@@ -20,10 +20,12 @@ summary: Lecture, Labs, Contact Information, Lecturer, Teaching Assistants, Cour
 
 **Office Hours**
 
-**Lecture Room & Time:** LEC - SDSB B3 ( T/Thu 01:00pm - 02:15pm)  
+**Lecture Room & Time:** LEC - SDSB B3 ( T/Th 01:00pm - 02:15pm)  
 			
 **Instructor:**   Dr Abdul Ali Bangash, Dr Suleman Shahid, Safa Salam 
+
 **Office:**	
+
 **E-mail:** [abdulali@lums.edu.pk](mailto:abdulali@lums.edu.pk)[suleman.shahid@lums.edu.pk](mailto:suleman.shahid@lums.edu.pk)[safa.salam@lums.edu.pk](mailto:safa.salam@lums.edu.pk)
 
 **Office Hours:** TBA
