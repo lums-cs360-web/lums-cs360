@@ -26,7 +26,9 @@ summary: Lecture, Labs, Contact Information, Lecturer, Teaching Assistants, Cour
 
 **Office:**	
 
-**E-mail:** [abdulali@lums.edu.pk](mailto:abdulali@lums.edu.pk)[suleman.shahid@lums.edu.pk](mailto:suleman.shahid@lums.edu.pk)[safa.salam@lums.edu.pk](mailto:safa.salam@lums.edu.pk)
+**E-mail:** [abdulali@lums.edu.pk](mailto:abdulali@lums.edu.pk)
+[suleman.shahid@lums.edu.pk](mailto:suleman.shahid@lums.edu.pk)
+[safa.salam@lums.edu.pk](mailto:safa.salam@lums.edu.pk)
 
 **Office Hours:** TBA
 
