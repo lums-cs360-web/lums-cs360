@@ -18,8 +18,9 @@ Use the links below to access the main course components.
 **[Project](/lums-cs360/general/project.html)**  
 **[Assignments](/lums-cs360/general/individual.html)**  
 **[Slides](/lums-cs360/general/slides.html)**  
-**[Resources](/lums-cs360/general/resources.html)**  
-**[Help](/lums-cs360/general/help.html)**
+**[UofA-Resources](/lums-cs360/general/resources.html)**  
+**[LUMS-Resources](/lums-cs360/general/resourceslums.html)** 
+<br> **[Help](/lums-cs360/general/help.html)**
 
 
 <!-- [TOC] -->
