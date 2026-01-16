@@ -14,10 +14,13 @@ summary: Lab Procedure, Lab Assignments, Lab Marking
 Labs will be held **online on Microsoft Teams**.
 
 **Timings:**  
-- **Monday:** 6:00 PM – 8:00 PM  
 - **Wednesday:** 6:00 PM – 8:00 PM  
+- **Thursday:** 6:00 PM – 8:00 PM  
 
-Students will be assigned to a specific lab group and will attend **one of the above sessions**, depending on their assigned group.
+**Note:** Timings may change during **Ramadan** and will be communicated in advance.
+
+Students will be assigned to a specific lab group and will attend **one of the above sessions**, depending on their assigned group. 
+
 
 
 # Lab 1
