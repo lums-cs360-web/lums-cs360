@@ -13,7 +13,7 @@ summary: Lab 2 Instructions
 
 In Lab 2, we'll be doing the following: 
 
-Quick review of [OOP principles]({attach}slides/CMPUT_301_LAB_2_OOP_PRINCIPLES.pdf)
+Quick review of [OOP principles]({attach}slides/Lab2_OOP.pdf)
 Android Basics ([Lab 2 Android Basics PDF under Lab 2]({attach}slides/Lab2.pdf))
 Displaying a list of items using ListView/ListAdapter ([Lab 2 ListView Demo Example - Instructions PDF under Lab 2]({attach}slides/CMPUT_301_LAB_2_INSTRUCTIONS.pdf))
 Lab Exercise - adding and removing items from ListAdapter (see the Lab 2 Participation Exercise below for more details.)
@@ -56,4 +56,4 @@ LMS
 
 **Due Date**
 
-Thursday 5PM
+Friday 5PM

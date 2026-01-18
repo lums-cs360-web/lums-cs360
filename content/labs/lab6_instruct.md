@@ -53,4 +53,4 @@ LMS
 
 **Due Date**
 
-Thursday 5PM
+Friday 5PM

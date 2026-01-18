@@ -107,7 +107,7 @@ There are no online lectures or recorded lectures. Lectures are in person.
 
 **GRADE EVALUATION**
 
-| Assessment | Weight | Collaboration Policy | Date |
+<!-- | Assessment | Weight | Collaboration Policy | Date |
 | :---- | ----- | ----- | ----- |
 | Participation | 8% | Solo Effort | Most Lectures |
 | Labs | 5% | Consultation | Fridays 5:00pm |
@@ -118,7 +118,19 @@ There are no online lectures or recorded lectures. Lectures are in person.
 | Project Part 2 | 5% | Teamwork | \~ Week 6 -  2025-10-14 5pm|
 | Project Part 3 | 10% | Teamwork | \~ Week 9 - 2025-11-07 5pm |
 | Project Part 4 | 16% | Teamwork | \~ Week 13 - 2025-12-01 5pm |
-| Midterms | 15% x 3 \= 45% | Confidential | MT1 \~ Week  4 2025-09-26 MT2 \~ Week  8 2025-10-24 MT3 \~ Week 14 2025-12-05 |
+| Midterms | 15% x 3 \= 45% | Confidential | MT1 \~ Week  4 2025-09-26 MT2 \~ Week  8 2025-10-24 MT3 \~ Week 14 2025-12-05 | -->
+| Assessment | Weight | Collaboration Policy | Date |
+| :---- | :----- | :----- | :----- |
+| Participation | 8% | Solo Effort | Most Lectures |
+| Labs | 5% | Consultation | Fridays 5:00pm |
+| Assignment 0 | 1% | Consultation | ~ Week 3 - 2026-02-05 5pm |
+| Project Part 0 | 1% | Teamwork | ~ Week 3 - 2026-02-05 5pm |
+| Assignment 1 | 8% | Consultation | ~ Week 5 - 2026-02-17 5pm |
+| Project Part 1 | 1% | Teamwork | ~ Week 5 - 2026-02-16 5pm |
+| Project Part 2 | 5% | Teamwork | ~ Week 8 - 2026-03-09 5pm |
+| Project Part 3 | 10% | Teamwork | ~ Week 10 - 2026-03-26 5pm |
+| Project Part 4 | 16% | Teamwork | ~ Week 14 - 2026-04-19 5pm |
+| Midterms | 15% x 3 = 45% | Confidential | MT1 ~ Week 4 - 2026-02-12<br>MT2 ~ Week 8 - 2026-03-12<br>MT3 ~ Week 14 - 2026-04-23 |
 
 Grades are unofficial until approved by the Department and/or Faculty offering the course.
 
