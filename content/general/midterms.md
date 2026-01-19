@@ -35,7 +35,7 @@ You should prepare a cheat sheet:
     - March 12, 2026 01:00 PM
 
 - Final
-    - May 218, 2026 03:00 PM
+    - May 18, 2026 03:00 PM
 
 
 ### Topics
