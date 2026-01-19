@@ -110,4 +110,4 @@ LMS
 Note: Running the project is not necessary.
 
 
-* **Due date:** Check the [schedule]({filename}/pages/home.md#schedule). (Usually Friday 5PM)
+* **Due date:** Check the [schedule]({filename}/pages/home.md#schedule). (Usually Tuesday 5PM)

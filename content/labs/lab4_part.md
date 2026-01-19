@@ -78,4 +78,4 @@ Please submit:
 
 **Due Date**
 
-Friday 5PM
+Tuesday 5PM
