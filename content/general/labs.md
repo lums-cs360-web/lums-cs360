@@ -20,6 +20,8 @@ Labs will be held **online on Microsoft Teams**.
 **Note:** Timings may change during **Ramadan** and will be communicated in advance.
 
 Students will be assigned to a specific lab group and will attend **one of the above sessions**, depending on their assigned group. 
+Lab Groups: https://docs.google.com/spreadsheets/d/1IvqhLhG5wp0H2QPJPXfL_SnyUEohJ7QT0r3MA6GC2EM/edit?gid=810193785#gid=810193785
+
 
 
 
