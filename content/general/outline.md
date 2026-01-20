@@ -40,7 +40,7 @@ summary: Lecture, Labs, Contact Information, Lecturer, Teaching Assistants, Cour
 
 **Teaching Assistant(s):** Available on LMS 
 
-**Labs:** Online 6pm to 8pm MW
+**Labs:** Online 6:15pm to 8:30pm Wed/Thur
 ---
 
 **COURSE CONTENT**
