@@ -1,9 +1,9 @@
 /* This is just to make it look different from 404 */
 html {
-    background-image: url("bg.png");
+    background-image: url("bg.png"); 
     background-repeat: repeat;
     background-size: 2lh;
     background-attachment: fixed;
-    color: black;
-    background-color: white;
+    color: #D6D6D6;
+    background-color: #0E1114;
 }
