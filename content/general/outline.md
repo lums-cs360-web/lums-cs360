@@ -16,17 +16,17 @@ summary: Lecture, Labs, Contact Information, Lecturer, Teaching Assistants, Cour
 ## Course Instructors
 
 ### Dr. Abdul Ali Bangash
-- **Email:** [abdulali@lums.edu.pk](abdulali@lums.edu.pk)
+- **Email:** [abdulali@lums.edu.pk](mailto:abdulali@lums.edu.pk)
 - **Office:** 9-G20A  
 - **Office Hours:** TBA  
 
 ### Dr. Suleman Shahid
-- **Email:** [suleman.shahid@lums.edu.pk](suleman.shahid@lums.edu.pk)  
+- **Email:** [suleman.shahid@lums.edu.pk](mailto:suleman.shahid@lums.edu.pk)  
 - **Office:** 9-G46A  
 - **Office Hours:** TBA  
 
 ### Safa Salam
-- **Email:** [safa.salam@lums.edu.pk](safa.salam@lums.edu.pk)  
+- **Email:** [safa.salam@lums.edu.pk](mailto:safa.salam@lums.edu.pk)  
 - **Office:** 9-G48 
 - **Office Hours:** Mon/Wed/Fri 3-5PM 
 
