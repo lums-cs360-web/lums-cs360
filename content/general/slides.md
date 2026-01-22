@@ -16,8 +16,8 @@ summary: Slides and per-topic resources
     * [Welcome - Dr. Campbell]({attach}slides/000welcome-campbell.pdf)  
     * [Welcome - Prof. Wong]({attach}slides/00_Welcome_Wong.pdf) [2]({attach}slides/00_Welcome_Wong2.pdf)
     * [Welcome - Prof. Hindle]({attach}slides/00_Welcome_Hindle.pdf) -->
-Add welcome slides here
 
+[Welcome]({attach}slides/00_Welcome_Slides.pdf) 
 # Objects UML Java
 
 Reading: [Course notes]({filename}/general/resources.md#course-notes) part 1 page 1-73
