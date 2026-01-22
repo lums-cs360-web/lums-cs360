@@ -13,30 +13,29 @@ summary: Lecture, Labs, Contact Information, Lecturer, Teaching Assistants, Cour
 **CS360: Software Engineering**    
 **Spring 2026**
 
-**Instructor:** Dr Abdul Ali Bangash, Dr Suleman Shahid, Safa Salam  
-**Office:**	  
-**E-mail:** [abdulali@lums.edu.pk](mailto:abdulali@lums.edu.pk)
+## Course Instructors
 
-[suleman.shahid@lums.edu.pk](mailto:suleman.shahid@lums.edu.pk)
+### Dr. Abdul Ali Bangash
+- **Email:** [abdulali@lums.edu.pk](abdulali@lums.edu.pk)
+- **Office:** 9-G20A  
+- **Office Hours:** TBA  
 
-[safa.salam@lums.edu.pk](mailto:safa.salam@lums.edu.pk)
-<!-- **Web Page: [https://softwareprocess.ca/](https://softwareprocess.ca/)**  -->
+### Dr. Suleman Shahid
+- **Email:** [suleman.shahid@lums.edu.pk](suleman.shahid@lums.edu.pk)  
+- **Office:** 9-G46A  
+- **Office Hours:** TBA  
 
-**Office Hours**
+### Safa Salam
+- **Email:** [safa.salam@lums.edu.pk](safa.salam@lums.edu.pk)  
+- **Office:** 9-G48 
+- **Office Hours:** Mon/Wed/Fri 3-5PM 
 
-**Lecture Room & Time:** LEC - SDSB B3 ( T/Th 01:00pm - 02:15pm)  
-			
-**Instructor:**   Dr Abdul Ali Bangash, Dr Suleman Shahid, Safa Salam 
+---
 
-**Office:**	
+## Lecture Information
+- **Lecture Room:** SDSB B3  
+- **Lecture Time:** Tuesday & Thursday, 01:00 PM – 02:15 PM  
 
-**E-mail:** [abdulali@lums.edu.pk](mailto:abdulali@lums.edu.pk)
-
-[suleman.shahid@lums.edu.pk](mailto:suleman.shahid@lums.edu.pk)
-
-[safa.salam@lums.edu.pk](mailto:safa.salam@lums.edu.pk)
-
-**Office Hours:** TBA
 
 **Teaching Assistant(s):** Available on LMS 
 
