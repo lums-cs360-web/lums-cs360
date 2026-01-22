@@ -70,16 +70,10 @@ INDEX_SAVE_AS="all.html"
 
 MENUITEMS = [
     ("Outline", "/lums-cs360/general/outline.html"),
-    # ("Slack", "/lums-cs360/#slack"),
-    # ("Schedule", "/lums-cs360/#schedule"),
     ("Labs", "/lums-cs360/general/labs.html"),
     ("Project", "/lums-cs360/general/project.html"),
     ("Individual", "/lums-cs360/general/individual.html"),
-    # ("LUMS Resources", "/lums-cs360/general/resourceslums.html"),
-    # ("Discussion Forum", "/lums-cs360/general/help.html#discussion-forum"),
-    # ("News & Notices", "/lums-cs360/#news-notices"),
     ("Slides", "/lums-cs360/general/slides.html"),
     ("Midterms", "/lums-cs360/general/midterms.html"),
-    # ("Help", "/lums-cs360/general/help.html"),
     ("Resources", "/lums-cs360/general/resources.html"),
 ]
