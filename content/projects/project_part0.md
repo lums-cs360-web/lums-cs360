@@ -12,13 +12,13 @@ summary: Project Part 0
 
 # Team Members
 
-Project teams consist of 6 members and each member must be registered in the **same lab section.**
+Project teams consist of 5 members and each member must be registered in the **same lab section.**
 
 The intent is that all members are available together for a good block of time during the week, to regularly meet their assigned TA, and to attend their project demos in their registered lab, without potentially overloading the lab section.
 
 For an initial teamwork exercise you will be asked to pick a team name according to the exact specifications below.
 
-* If you have fewer than 6 members, you may be split up and assigned to other teams.
+* If you have fewer than 5 members, you may be split up and assigned to other teams.
 
 # What to submit
 
