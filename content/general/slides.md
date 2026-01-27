@@ -17,13 +17,13 @@ summary: Slides and per-topic resources
     * [Welcome - Prof. Wong]({attach}slides/00_Welcome_Wong.pdf) [2]({attach}slides/00_Welcome_Wong2.pdf)
     * [Welcome - Prof. Hindle]({attach}slides/00_Welcome_Hindle.pdf) -->
 
-[Welcome]({attach}slides/00_Welcome_Slides.pdf) 
+[Lecture 1 - Welcome]({attach}slides/00_Welcome_Slides.pdf) 
 # Objects UML Java
 
 Reading: [Course notes]({filename}/general/resources.md#course-notes) part 1 page 1-73
 
-* [Objects UML Java]({attach}slides/01_OO_Tang.pdf)
-* [Objects UML Java - Campbell]({attach}slides/010oo-campbell.pdf)
+* [Lecture 2 - Objects UML Java]({attach}slides/Lecture-2-LUMS-S26.pdf)
+<!-- * [Objects UML Java - Campbell]({attach}slides/010oo-campbell.pdf)
 * [Objects UML Java Slides]({attach}slides/02-OO.pdf)
 * [OOP Notes]({attach}slides/OONotes.pdf)
 * [Objects, UML, and Java Draft Slides (4up)]({attach}slides/02-OO.4up.pdf)
@@ -159,4 +159,4 @@ Reading: [Course notes]({filename}/general/resources.md#course-notes) part 2
 * [Fall 2021 Outline]({filename}outline_old.md)
 * [Old Lab Recordings]({filename}old_recordings.md)
 * [Old Project Problem Description F22]({filename}old_project_description.md)
-* [Old Project Problem Description F24]({filename}old_project_description_f24.md)
+* [Old Project Problem Description F24]({filename}old_project_description_f24.md) -->
