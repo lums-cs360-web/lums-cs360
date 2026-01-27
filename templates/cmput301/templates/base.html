@@ -1,5 +1,21 @@
 {% extends "!simple/base.html" %}
 
+{% block menu %}
+<ul class="menu">
+{% for title, link in MENUITEMS %}
+    <li>
+        <a href="{{ link }}"
+           {% if link.startswith('http') %}
+               target="_blank" rel="noopener noreferrer"
+           {% endif %}>
+           {{ title }}
+        </a>
+    </li>
+{% endfor %}
+</ul>
+{% endblock %}
+
+
 {% block head %}
 {{ super() }}
   <link rel="icon" href="{{ SITEURL }}/theme/favicon.png" />
