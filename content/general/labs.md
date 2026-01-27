@@ -67,6 +67,18 @@ Students will be assigned to a specific lab group and will attend **one of the a
 # Marking
 
 From the syllabus
+> Late Submission Policy:
+> To ensure fairness and consistency for all participants, the following late submission policy applies for all labs:
+
+> Up to 1 hour late: 5% penalty
+
+> More than 1 hour and up to 24 hours late: 10% penalty
+
+> More than 24 hours and up to 48 hours late: 50% penalty
+
+> More than 48 hours late: Submissions will not be accepted
+
+> Late penalties are applied to the final evaluated score. Submissions are considered late based on the timestamp recorded by the submission system.
 
 > Missed Labs:
 
