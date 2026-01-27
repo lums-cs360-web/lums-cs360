@@ -70,7 +70,7 @@ INDEX_SAVE_AS="all.html"
 
 MENUITEMS = [
     ("Outline", "/lums-cs360/general/outline.html"),
-    ("Live Schedule","(https://docs.google.com/spreadsheets/d/1WXOvrmoseOKpqhYd16F1AkesHH3Ew_GlPVFuwbTS_4Y/edit?usp=sharing)"),
+    ("Live Schedule","https://docs.google.com/spreadsheets/d/1WXOvrmoseOKpqhYd16F1AkesHH3Ew_GlPVFuwbTS_4Y/edit?usp=sharing", "_blank"),
     ("Labs", "/lums-cs360/general/labs.html"),
     ("Project", "/lums-cs360/general/project.html"),
     ("Individual", "/lums-cs360/general/individual.html"),
