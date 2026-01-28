@@ -23,8 +23,8 @@ summary: Slides and per-topic resources
 Reading: [Course notes]({filename}/general/resources.md#course-notes) part 1 page 1-73
 
 * [Lecture 2 - Objects UML Java]({attach}slides/Lecture-2-LUMS-S26.pdf)
-<!-- * [Objects UML Java - Campbell]({attach}slides/010oo-campbell.pdf)
-* [Objects UML Java Slides]({attach}slides/02-OO.pdf)
+ * [Lecture 3 - Objects UML Java]({attach}slides/Lecture-3-LUMS-S26.pdf)
+<!--* [Objects UML Java Slides]({attach}slides/02-OO.pdf)
 * [OOP Notes]({attach}slides/OONotes.pdf)
 * [Objects, UML, and Java Draft Slides (4up)]({attach}slides/02-OO.4up.pdf)
 * [Objects, UML, and Java Draft Slides (1up)]({attach}slides/02-OO.pdf)
