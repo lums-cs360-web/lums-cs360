@@ -24,7 +24,7 @@ For an initial teamwork exercise you will be asked to pick a team name according
 
 Every team member will need to submit the following:
 
-* The lab section (Tuesday/Wednesday/Thursday)
+* The lab section (Wednesday/Thursday)
 * Each team member's ROLLNUM
 * Each team member's name
 * Each team member's GitHub username
@@ -41,7 +41,7 @@ Every team member will need to submit the following:
 
 # Submission Procedure
 
-All members of the team must submit the Google Form: [Form](https://docs.google.com/forms/d/e/1FAIpQLSdWCZv79DVnW0J8mxAa2MupaDTjwGCPISK6XlLmjd5aEddNDg/viewform?usp=dialog)
+All members of the team must submit the Google Form: [Form](https://forms.gle/vx9h2PrjjUvGVJEG8)
 
 # Marking
 
