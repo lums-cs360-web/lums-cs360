@@ -29,7 +29,7 @@ You should prepare a cheat sheet:
 50 minute exams:
 
 - Midterm 1
-    - February 14, 2026 12:30 PM
+    - February 12, 2026 1:00 PM
 
 - Midterm 2
     - March 12, 2026 01:00 PM
