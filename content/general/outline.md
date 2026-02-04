@@ -28,7 +28,7 @@ summary: Lecture, Labs, Contact Information, Lecturer, Teaching Assistants, Cour
 ### Safa Salam
 - **Email:** [safa.salam@lums.edu.pk](mailto:safa.salam@lums.edu.pk)  
 - **Office:** 9-G48 
-- **Office Hours:** Mon/Wed/Fri 3-5PM 
+- **Office Hours:** Mon/Wed 10-12pm Fri 3-5PM 
 
 ---
 
