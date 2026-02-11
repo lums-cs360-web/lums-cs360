@@ -21,7 +21,7 @@ Your team is expected to use GitHub for a git repository and wiki to share, mana
 
 * See the Project Teams sheet for your assigned team name, Example: `indigo`.
 * Add CS360S26 to it. Example `CS360S26indigo` 
-* Create a new GitHub Organization using the following naming format: CS360S26<teamname> e.g.`CS360S26indigo` 
+* Create a new GitHub Organization using the following naming format: CS360S26teamname e.g.`CS360S26indigo` 
 * This must be the exact name of your team’s GitHub organization. Use the free GitHub plan.
 * Inside your newly created organization, create one public repository. The repository name must be a professional, respectful project name related to your team name. Example: `indigo-events` 
 * Make sure your repository is accessible at all times to team members, the TAs, and the instructor via GitHub. Record the repo URL.
