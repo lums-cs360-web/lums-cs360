@@ -129,7 +129,7 @@ There are no online lectures or recorded lectures. Lectures are in person.
 | Project Part 2 | 5% | Teamwork | ~ Week 8 - 2026-03-09 5pm |
 | Project Part 3 | 10% | Teamwork | ~ Week 10 - 2026-03-26 5pm |
 | Project Part 4 | 16% | Teamwork | ~ Week 14 - 2026-04-19 5pm |
-| Midterms | 15% x 3 = 45% | Confidential | MT1 ~ Week 4 - 2026-02-12<br>MT2 ~ Week 8 - 2026-03-12<br>Final ~ Week 14 - 2026-05-18 |
+| Midterms | 45% | Confidential | MT1 - 20% - 2026-03-12<br>MT2 - 25% - 2026-04-23
 
 Grades are unofficial until approved by the Department and/or Faculty offering the course.
 
@@ -138,13 +138,11 @@ Grades are unofficial until approved by the Department and/or Faculty offering t
 50 minute exams at:
 
 - Midterm 1
-    - February 12, 2026 01:00 PM
+    - March 12, 2026 
 
 - Midterm 2
-    - March 12, 2026 01:00 PM
+    - April 23, 2026 
 
-- Final
-    - May 18, 2026 03:00 PM
 
 
 
