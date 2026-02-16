@@ -13,6 +13,19 @@ summary: Individual Assignments, Participation
 * [Assignment 0: Getting started]({filename}/individual/assignment0.md)
 * [Assignment 1]({filename}/individual/assignment1.md)
 
+# Late Submission Policy
+> To ensure fairness and consistency for all participants, the following late submission policy applies for all assignments:
+
+> Up to 1 hour late: 5% penalty
+
+> More than 1 hour and up to 24 hours late: 10% penalty
+
+> More than 24 hours and up to 48 hours late: 50% penalty
+
+> More than 48 hours late: Submissions will not be accepted
+
+> Late penalties are applied to the final evaluated score. Submissions are considered late based on the timestamp recorded by the submission system.
+
 # Participation
 
 You can earn lecture participation credit by attending lecture on time and doing a lecture participation exercise. Instructions will be given during lecture.
