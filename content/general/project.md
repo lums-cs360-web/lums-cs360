@@ -7,14 +7,22 @@ summary: 301 Group Project
 ----
 
 [TOC]
+# Project
 
-# Project 
+> **IMPORTANT NOTICE**  
+> **Project meetings are mandatory for all group members.**  
+> There will be **7** scheduled throughout the semester.  
+> **Attendance will be recorded by the TA.**  
+> **5% of the total project marks are strictly allocated to meeting attendance.**  
+> Failure to attend meetings will result in a direct deduction from project marks.
+
+---
 
 * [Project Problem Description]({filename}../projects/project_problem_descr.md)
 
 * [Project Teams]({filename}../projects/project_team.md)
 
-* [Project demo schedule]({filename}../projects/project_demo.md)
+* [Project Demo Schedule]({filename}../projects/project_demo.md)
 
 * [Project Part 0]({filename}../projects/project_part0.md)
 
