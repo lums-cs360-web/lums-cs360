@@ -25,9 +25,11 @@ Reading: [Course notes]({filename}/general/resources.md#course-notes) part 1 pag
 * [Lecture 2 - Objects UML Java]({attach}slides/Lecture-2-LUMS-S26.pdf)
 * [Lecture 3 - Objects UML Java]({attach}slides/Lecture-3-LUMS-S26.pdf)
 * [Lecture 4 - Objects UML Java]({attach}slides/Lecture-4-LUMS-S26.pdf)
+# Software Process Models
 * [Lecture 5+6 - Software Process Models]({attach}slides/Lecture-5-LUMS-S26.pdf)
 * [Lecture 7+8 - Software Process Models]({attach}slides/Lecture-6-LUMS-S26.pdf)
 * Lecture 9 - Guest Lecture
+# Requirement Engineering
 * [Lecture 10 - Requirement Engineering]({attach}slides/Lecture-7-LUMS-S26.pdf)
 <!--* [OOP Notes]({attach}slides/OONotes.pdf)
 * [Objects, UML, and Java Draft Slides (4up)]({attach}slides/02-OO.4up.pdf)
