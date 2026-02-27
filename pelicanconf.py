@@ -1,6 +1,6 @@
 AUTHOR = 'LUMS'
 SITENAME = 'CS360'
-SITESUBTITLE = 'Software Engineering'
+SITESUBTITLE = 'Copyright @ CMPUT301 - University of Alberta'
 SITEURL = ""
 
 PATH = "content"
