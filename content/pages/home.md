@@ -12,7 +12,7 @@ All original material and structure belong to the CMPUT 301 instructional team a
 Use the links below to access the main course components.
 
 **[Outline](/lums-cs360/general/outline.html)**  
-**[Schedule](https://docs.google.com/spreadsheets/d/1WXOvrmoseOKpqhYd16F1AkesHH3Ew_GlPVFuwbTS_4Y/edit?usp=sharing)**  
+<!--  **[Schedule](https://docs.google.com/spreadsheets/d/1WXOvrmoseOKpqhYd16F1AkesHH3Ew_GlPVFuwbTS_4Y/edit?usp=sharing)**   -->
 **[Slack](https://join.slack.com/t/cs360-s26/shared_invite/zt-3llj3j7jl-d0rr4C3wiJVFPy~FlXdvaA)**  
 **[Labs](/lums-cs360/general/labs.html)**  
 **[Project](/lums-cs360/general/project.html)**  
@@ -22,12 +22,11 @@ Use the links below to access the main course components.
 
 
 
-<!-- [TOC] -->
-
+<!-- 
 # Schedule 
 
  The course schedule is updated in this [Google Sheet](https://docs.google.com/spreadsheets/d/1WXOvrmoseOKpqhYd16F1AkesHH3Ew_GlPVFuwbTS_4Y/edit?usp=sharing). Please remember that this is only a plan, and sometimes plans change.
-
+ -->
 # Slack
 
 [Join the slack channel.](https://join.slack.com/t/cs360-s26/shared_invite/zt-3llj3j7jl-d0rr4C3wiJVFPy~FlXdvaA)
