@@ -2,17 +2,15 @@ Title: Midterms
 date: 2025-09-09
 tags: resources, reading, references, videos, practice, exams
 authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
+copied from: Dr Abrahm Hindle (CMPUT301 - University of Alberta)
 status: published
 summary: Exam Practice Questions
 
 ---
 
 
-The Midterm Exams consist of three exams, each with three questions,
-taking about 10 minutes each. You must complete your midterm during
-your scheduled class time—only for your section. Taking the same
-midterm twice is a violation of the Student Academic Integrity Policy,
-and neither will be graded.
+The Midterm Exams consist of two exams, each with multiple questions,
+taking about 10-20 minutes each. 
 
 The midterm exams are closed book with a cheat sheet. No collaboration
 is allowed. Solo and Confidential.
@@ -41,23 +39,13 @@ You should prepare a cheat sheet:
 The exam topics involve everything covered or presented in class up until the
 day of the midterm exam.
 
-Lecture topics include what is covered in class such as:  
-
-- [Objects, UML, and Java]({filename}/general/slides.html#objects-uml-java)
-- [Software Process]({filename}/general/slides.html#software-process)
-- [Requirements]({filename}/general/slides.html#requirements)
-
-Consult  the lecture slides and recordings, related MOOC resources (videos and
-notes), class participation exercises, and practice questions. Know Java  and
-the covered UML diagrams.  
-
 The exam questions are very similar to our in class exercises.
 
 # Exam Practice
 
 Later exams are more directly relevant to your midterms. Answers will
 not be provided, but you can post your answers for correction in the
-discussion forum.
+discussion forum on slack.
 
 * [PQ]({filename}/resources/practice/PracticeQuestions.pdf)
 * [W15HFQ]({filename}/resources/practice/Final-2015-Winter.pdf)
