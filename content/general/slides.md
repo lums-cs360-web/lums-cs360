@@ -1,7 +1,10 @@
 title: Slides
 date: 2024-01-06
 tags: resources, policy, contact, wellness
-authors: Dr Abdul Ali Bangash, Dr Suleman Shahid
+authors: Dr. Suleman Shahid and Dr. Abdul Ali Bangash, Department of Computing Science, LUMS (2026).
+Dr. Hazel Campbell, Department of Computing Science, Faculty of Science, University of Alberta (2019, 2023, 2024).
+Dr. Abram Hindle, Department of Computing Science, Faculty of Science, University of Alberta (2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023).
+Alexander Wong, 2019.
 status: published
 summary: Slides and per-topic resources
 
@@ -32,6 +35,7 @@ Reading: [Course notes]({filename}/general/resources.md#course-notes) part 1 pag
 # Requirement Engineering
 * [Lecture 10 - Requirement Engineering]({attach}slides/Lecture-7-LUMS-S26.pdf)
 * [Lecture 11 - Requirement Analysis]({attach}slides/Lecture-11-LUMS-S26.pdf)
+* [Lecture 12 - Requirement Analysis]({attach}slides/Lecture-12-LUMS-S26.pdf)
 <!--* [OOP Notes]({attach}slides/OONotes.pdf)
 * [Objects, UML, and Java Draft Slides (4up)]({attach}slides/02-OO.4up.pdf)
 * [Objects, UML, and Java Draft Slides (1up)]({attach}slides/02-OO.pdf)
