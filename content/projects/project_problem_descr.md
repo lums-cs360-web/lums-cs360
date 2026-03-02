@@ -32,9 +32,8 @@ A centralized platform where students can discover, browse, and RSVP to campus e
 
 ### **Primary Users**
 - Students  
-- Event organizers  
 - Student club leaders  
-- Administrators  
+- LUMS Staff
 
 ### **Key Challenges**
 - Calendar API integration  
