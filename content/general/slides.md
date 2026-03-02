@@ -36,7 +36,7 @@ Reading: [Course notes]({filename}/general/resources.md#course-notes) part 1 pag
 # Requirement Engineering
 * [Lecture 10 - Requirement Engineering]({attach}slides/Lecture-7-LUMS-S26.pdf)
 * [Lecture 11 - Requirement Analysis]({attach}slides/Lecture-11-LUMS-S26.pdf)
-* [Lecture 12 - Requirement Analysis]({attach}slides/Lecture-12-LUMS-S26.pdf)
+* [Lecture 12 - Requirement Modelling]({attach}slides/Lecture-12-LUMS-S26.pdf)
 <!--* [OOP Notes]({attach}slides/OONotes.pdf)
 * [Objects, UML, and Java Draft Slides (4up)]({attach}slides/02-OO.4up.pdf)
 * [Objects, UML, and Java Draft Slides (1up)]({attach}slides/02-OO.pdf)
