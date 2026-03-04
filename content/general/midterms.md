@@ -16,19 +16,13 @@ summary: Exam Practice Questions
 The Midterm Exams consist of two exams, each with multiple questions,
 taking about 10-20 minutes each. 
 
-The midterm exams are closed book with a cheat sheet. No collaboration
-is allowed. Solo and Confidential.
+The midterm exams are closed book/closed notes. No collaboration
+is allowed. Solo and Confidential.No cheat sheet is allowed.
 
-You should prepare a cheat sheet:
-
-- 1 sheet double sided - US LETTER SIZE ONLY (8.5 inches by 11 inches)
-- Does not need to be hand written, but should be so you learn better.
-- Can not be shared, each cheat sheet has to be created individually.
-- You will not get the cheat sheet back.
 
 ## 2026 Times
 
-50 minute exams:
+1.5 hr exams:
 
 - Midterm 1
     - March 12, 2026 
