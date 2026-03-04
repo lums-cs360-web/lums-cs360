@@ -63,6 +63,8 @@ Use GitHub. Your team repo must be self-contained, i.e., not link to external co
 After the due date, each member must complete an assessment form to describe his or her individual contribution to the project for this stage, and to review the performance of the other members.
 
 ## Marking
+Each component of your deliverable will be evaluated individually based on the following rubric:
+
 No part marks, no extra marks. No half marks.
 
 - Failure (0) : 
