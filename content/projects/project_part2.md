@@ -60,7 +60,8 @@ Use GitHub. Your team repo must be self-contained, i.e., not link to external co
 
 ## Individual Task and Peer Review Form
 
-After the due date, each member must complete an assessment form to describe his or her individual contribution to the project for this stage, and to review the performance of the other members.
+After the due date, each member must complete an assessment form to describe his or her individual contribution to the project for this stage, and to review the performance of the other members: https://forms.gle/oJj2AAmdiXL7tybu9
+Deadline to complete the form and submit it is 11:59 PM Tuesday 10 March
 
 ## Marking
 Each component of your deliverable will be evaluated individually based on the following rubric:
