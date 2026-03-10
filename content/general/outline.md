@@ -130,7 +130,7 @@ There are no online lectures or recorded lectures. Lectures are in person.
 | Project Part 0 | 1% | Teamwork | ~ Week 3 - 2026-02-05 5pm |
 | Assignment 1 | 8% | Consultation | ~ Week 5 - 2026-02-17 5pm |
 | Project Part 1 | 1% | Teamwork | ~ Week 5 - 2026-02-16 5pm |
-| Project Part 2 | 5% | Teamwork | ~ Week 8 - 2026-03-09 5pm |
+| Project Part 2 | 5% | Teamwork | ~ Week 8 - 2026-03-10 5pm |
 | Project Part 3 | 10% | Teamwork | ~ Week 10 - 2026-03-26 5pm |
 | Project Part 4 | 16% | Teamwork | ~ Week 14 - 2026-04-19 5pm |
 | Midterms | 45% | Confidential | MT1 - 20% - 2026-03-12<br>MT2 - 25% - 2026-04-23
