@@ -39,6 +39,8 @@ Reading: [Course notes]({filename}/general/resources.md#course-notes) part 1 pag
 * [Lecture 12 - Requirement Modelling]({attach}slides/Lecture-12-LUMS-S26.pdf)
 # User Interface Design
 * [Lecture 13 - UI Design]({attach}slides/Lecture-13-LUMS-S26.pdf)
+# Object-oriented analysis and design
+* [Lecture 14 - OOAD]({attach}slides/Lecture-14-LUMS-S26.pdf)
 <!--* [OOP Notes]({attach}slides/OONotes.pdf)
 * [Objects, UML, and Java Draft Slides (4up)]({attach}slides/02-OO.4up.pdf)
 * [Objects, UML, and Java Draft Slides (1up)]({attach}slides/02-OO.pdf)
