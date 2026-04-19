@@ -48,6 +48,8 @@ Reading: [Course notes]({filename}/general/resources.md#course-notes) part 1 pag
 # Refactoring
 * [Lecture 17 - Refactoring]({attach}slides/Lecture-17-LUMS-S26.pdf)
 * [Lecture 18 - Refactoring]({attach}slides/Lecture-18-LUMS-S26.pdf)
+# Testing
+* [Lecture 19 - Testing]({attach}slides/Lecture-19-LUMS-S26.pdf)
 <!--* [OOP Notes]({attach}slides/OONotes.pdf)
 * [Objects, UML, and Java Draft Slides (4up)]({attach}slides/02-OO.4up.pdf)
 * [Objects, UML, and Java Draft Slides (1up)]({attach}slides/02-OO.pdf)
